@@ -1,5 +1,7 @@
 # alyssar60819.github.io
 
+<script>
+
 function setup() {
   createCanvas(400, 400);
 }
@@ -184,6 +186,7 @@ draw= function() {
     }
   };
 };
-
-
-
+<script/>
+                                                            
+                                              
+                                                           
